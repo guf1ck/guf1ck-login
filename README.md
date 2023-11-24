@@ -1,6 +1,5 @@
 # Login System using Typescript for FiveM
-
-![image](https://user-images.githubusercontent.com/87246847/215305022-0b3661fa-a5b6-4cf6-b3f4-939948868105.png)
+![image](https://i.imgur.com/Rg97iWG.png)
 
 An easy Login System for FiveM using Typescript
 
